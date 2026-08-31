@@ -17,3 +17,8 @@ It is all pretty modular. Pieces can be swapped and modified to fit tightly base
 > I am already planning on designing a V2. I realized that it might have been better if the sliding mechanism was orthogonal to the film roll so that my fingers can avoid avoiding the film roll during sliding. Something that appeared obvious pretty much the first moment I had it assembled. The V2 is currently not in the works, it will take some time, I am working on other projects.
 
 
+## How to Make it
+Download the `.step` files in `components` and print them on your preferred setting. It uses some standard M3 heat inserts and screws to hold everything together. You may use magnets but you don't have to.
+
+## How to modify it
+TODO: I will add a directory with raw Fusion 360 files so that you can import them and modify it to your liking. Be aware of the license for this project if you intend to use it.
