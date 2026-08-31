@@ -18,7 +18,9 @@ It is all pretty modular. Pieces can be swapped and modified to fit tightly base
 
 
 ## How to Make it
-Download the `.step` files in `components` and print them on your preferred setting. It uses some standard M3 heat inserts and screws to hold everything together. You may use magnets but you don't have to.
+Download the `.step` files from the `parts` directory and print them on your preferred setting. Alternatively, you can download the `Gravity Holder v1.3mf` file and load it into a compatible slicer.
+It uses some standard M3 heat inserts and screws to hold everything together. You may use magnets but you don't have to.
+
 
 ## How to modify it
-TODO: I will add a directory with raw Fusion 360 files so that you can import them and modify it to your liking. Be aware of the license for this project if you intend to use it.
+Download and import the Fusion 360 archive files from the `fusion` directory. You should be able to figure out the rest.
