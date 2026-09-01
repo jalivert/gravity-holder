@@ -2,7 +2,10 @@
 A 3D printed film holder for DSLR scanning.
 
 
+![the gravity holder screenshot from Fusion 360](/images/rear.png)
+For more images see the `images` directory.
 
+## What is it and Why I made it?
 I wanted a scanning rig for my DSLR that would hold the film really **still and flat** so that when I am cropping in my editor, I can just apply the same crop to the whole roll.
 I also wanted a holder that would be modular and have its own "bellows" to keep the ambient light out. This is the result of my work.
 
