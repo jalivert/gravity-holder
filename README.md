@@ -27,7 +27,7 @@ I made it so that you can add some magnets, but you don't really have to use the
 
 It is supposed to fit the CineStill CS-Lite-Brite - it goes on top of it where their original cutout masks go. But you can probably adapt it to almost any light with a bit of work.
 
-It is all pretty modular. Pieces can be swapped and modified to fit tightly based on your own printer. I made it so that later, there could be a mask for medium format film too, but I haven't gotten to actually designing the different MF masks.
+It is all pretty modular. Pieces can be swapped and modified to fit tightly based on your own printer.
 
 
 > I am already planning on designing a V2. I realized that it might have been better if the sliding mechanism was orthogonal to the film roll so that my fingers can avoid avoiding the film roll during sliding. Something that appeared obvious pretty much the first moment I had it assembled. The V2 is currently not in the works, it will take some time, I am working on other projects.
